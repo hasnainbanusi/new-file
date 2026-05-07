@@ -1,3 +1,5 @@
 Hello this is my file in new folder and i will push this to github through git
 
 this is now new line added in github and will be pulled to local one
+
+this line is added in local and will be pushed to remote one.
